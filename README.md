@@ -100,6 +100,7 @@ cd each_tag
 python3 rbp_each_Tag.py
 
 cd ..
+cd ..
 cd 14_charts
 python3 1_dist.py
 ```
