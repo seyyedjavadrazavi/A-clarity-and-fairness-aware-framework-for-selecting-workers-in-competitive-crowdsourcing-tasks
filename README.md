@@ -91,7 +91,16 @@ cd 12_suitability_score
 python3 compWithOriginal_top_50.py
 
 cd ..
-cd 13_charts
+cd 13_metrics
+cd all_tag
+python3 rbp_all_tag.py
+
+cd ..
+cd each_tag
+python3 rbp_each_Tag.py
+
+cd ..
+cd 14_charts
 python3 1_dist.py
 ```
 
