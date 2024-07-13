@@ -2,6 +2,17 @@
 
 ## Introduction
 This repository contains the code for the article "A Clarity and Fairness Aware Framework for Selecting Workers in Competitive Crowdsourcing Tasks." Follow the steps below to run the code.
+Bibtex citation format:
+```
+@article{bozorg2024clarity,
+  title={A clarity and fairness aware framework for selecting workers in competitive crowdsourcing tasks},
+  author={Bozorg Zadeh Razavi, Seyyed Javad and Amintoosi, Haleh and Allahbakhsh, Mohammad},
+  journal={Computing},
+  pages={1--26},
+  year={2024},
+  publisher={Springer}
+}
+```
 
 ## 0. Download Dataset
 We used the Stack Overflow dataset. You can download it from [this link](https://drive.google.com/drive/folders/1q33zXpglbViJtDEJYP0oAuH-r24wkWKU?usp=sharing). Then you must put each file in the corresponding directories on the 1_prepration folder. For example, you should put the Posts.xml in the 1_prepration/posts folder.
