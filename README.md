@@ -4,7 +4,7 @@
 This repository contains the code for the article "A Clarity and Fairness Aware Framework for Selecting Workers in Competitive Crowdsourcing Tasks." Follow the steps below to run the code.
 
 ## 0. Download Dataset
-We used the Stack Overflow dataset. You can download it from [this link](https://drive.google.com/drive/folders/1q33zXpglbViJtDEJYP0oAuH-r24wkWKU?usp=sharing).
+We used the Stack Overflow dataset. You can download it from [this link](https://drive.google.com/drive/folders/1q33zXpglbViJtDEJYP0oAuH-r24wkWKU?usp=sharing). Then you must put each file in the corresponding directories on the 1_prepration folder. For example, you should put the Posts.xml in the 1_prepration/posts folder.
 
 ## Progress
 To use this code for your purposes and dataset, follow and run the files in order based on their numbers. Each folder is named with a number to indicate the sequence, from `1_preparation` to `13_charts`. Within each folder, if order matters, the files follow a similar pattern; otherwise, you can run them in any order. Detailed instructions for each section are provided below.
